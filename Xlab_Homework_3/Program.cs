@@ -10,6 +10,11 @@ class Program
     static void Main(string[] args)
     {
         string input;
+        
+        Console.ForegroundColor = ConsoleColor.DarkMagenta;
+        Console.WriteLine("Welcome to my Homework!");
+        Console.ResetColor();
+        
         do
         {
             ShowMenu();

@@ -12,9 +12,9 @@ public abstract class Monster
     
     protected Monster(string type, int health, string name = "Безымянный")
     {
+        Type = type;
         Health = health;
         Name = name;
-        Type = type;
     }
 
     public void TakeDamage(int damage)
@@ -27,7 +27,6 @@ public abstract class Monster
             
             return;
         }
-        
         
         if (HasArmor)
         {
