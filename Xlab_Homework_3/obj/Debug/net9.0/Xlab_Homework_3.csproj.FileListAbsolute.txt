@@ -1,0 +1,15 @@
+D:\Xlab Homeworks\Homework 3\Xlab_Homework_3\Xlab_Homework_3\obj\Debug\net9.0\Xlab_Homework_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xlab Homeworks\Homework 3\Xlab_Homework_3\Xlab_Homework_3\obj\Debug\net9.0\Xlab_Homework_3.AssemblyInfoInputs.cache
+D:\Xlab Homeworks\Homework 3\Xlab_Homework_3\Xlab_Homework_3\obj\Debug\net9.0\Xlab_Homework_3.AssemblyInfo.cs
+D:\Xlab Homeworks\Homework 3\Xlab_Homework_3\Xlab_Homework_3\obj\Debug\net9.0\Xlab_Homework_3.csproj.CoreCompileInputs.cache
+D:\Xlab Homeworks\Homework 3\Xlab_Homework_3\Xlab_Homework_3\bin\Debug\net9.0\Xlab_Homework_3.exe
+D:\Xlab Homeworks\Homework 3\Xlab_Homework_3\Xlab_Homework_3\bin\Debug\net9.0\Xlab_Homework_3.deps.json
+D:\Xlab Homeworks\Homework 3\Xlab_Homework_3\Xlab_Homework_3\bin\Debug\net9.0\Xlab_Homework_3.runtimeconfig.json
+D:\Xlab Homeworks\Homework 3\Xlab_Homework_3\Xlab_Homework_3\bin\Debug\net9.0\Xlab_Homework_3.dll
+D:\Xlab Homeworks\Homework 3\Xlab_Homework_3\Xlab_Homework_3\bin\Debug\net9.0\Xlab_Homework_3.pdb
+D:\Xlab Homeworks\Homework 3\Xlab_Homework_3\Xlab_Homework_3\obj\Debug\net9.0\Xlab_Homework_3.dll
+D:\Xlab Homeworks\Homework 3\Xlab_Homework_3\Xlab_Homework_3\obj\Debug\net9.0\refint\Xlab_Homework_3.dll
+D:\Xlab Homeworks\Homework 3\Xlab_Homework_3\Xlab_Homework_3\obj\Debug\net9.0\Xlab_Homework_3.pdb
+D:\Xlab Homeworks\Homework 3\Xlab_Homework_3\Xlab_Homework_3\obj\Debug\net9.0\Xlab_Homework_3.genruntimeconfig.cache
+D:\Xlab Homeworks\Homework 3\Xlab_Homework_3\Xlab_Homework_3\obj\Debug\net9.0\ref\Xlab_Homework_3.dll
+D:\Xlab Homeworks\Homework 3\Xlab_Homework_3\Xlab_Homework_3\obj\Debug\net9.0\Xlab_Homework_3.sourcelink.json
