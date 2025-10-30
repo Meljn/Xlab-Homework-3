@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xlab_Homework_3", "Xlab_Homework_3\Xlab_Homework_3.csproj", "{7DD275FF-E09B-4994-80E1-A7F3351FAD01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DD275FF-E09B-4994-80E1-A7F3351FAD01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DD275FF-E09B-4994-80E1-A7F3351FAD01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DD275FF-E09B-4994-80E1-A7F3351FAD01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DD275FF-E09B-4994-80E1-A7F3351FAD01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
